@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Pribadi</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav>
+        <a href="#beranda">Beranda</a>
+        <a href="#tentang">Tentang Saya</a>
+        <a href="#kontak">Kontak</a>
+    </nav>
+
+    <section id="beranda">
+        <h1>Halo, Selamat Datang!</h1>
+        <img src="foto.jpg" alt="Foto profil saya"
+             class="foto-profil">
+        <p>Selamat datang di website pribadi saya.</p>
+        <a href="#tentang" class="tombol">Kenali Saya</a>
+    </section>
+
+    <section id="tentang">
+        <h2>Tentang Saya</h2>
+        <p>Halo! Saya sedang belajar membuat website.</p>
+    </section>
+
+    <section id="kontak">
+        <h2>Kontak</h2>
+        <p>Instagram: @zuri_kushoukunakaramagisa</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 Website prif zuri i</p>
+    </footer>
+
+</body>
+</html>
+
+  
